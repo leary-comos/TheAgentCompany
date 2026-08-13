@@ -90,4 +90,3 @@ def grade_checkpoints(trajectory="") -> Result:
     checkpoint4 = Checkpoint(1, 1*int(grade_checkpoint4()))
     checkpoint5 = Checkpoint(1, 1*int(grade_checkpoint5()))
     return Result([checkpoint1, checkpoint2, checkpoint3, checkpoint4, checkpoint5])
-
