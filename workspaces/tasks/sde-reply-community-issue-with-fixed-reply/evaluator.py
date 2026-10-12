@@ -64,4 +64,3 @@ def grade_checkpoints(trajectory="") -> Result:
 
     return result
 
-
